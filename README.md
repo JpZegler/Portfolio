@@ -13,4 +13,4 @@ Bachelor of Sciences in Business Analytics. Exp. Graduation - Spring 2025
 GPA 3.50
 
 ### Projects
-"C:\Users\zegle\OneDrive\Pictures\Screenshots\Screenshot 2023-03-03 153611.jpg"
+2023-03-03 153611.jpg"
