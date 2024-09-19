@@ -1,6 +1,10 @@
-# Business analytics student at Ivy College of Business at Iowa State University
+## Business analytics student at Ivy College of Business at Iowa State University
 
 ### Experience
+Mintel
+  •	Built predictive models to forecast sales and inventory levels, improving inventory management.
+    o	
+
 BMG Group 
   •	Built predictive models to forecast sales and inventory levels, improving inventory management.
     o	Created data visualizations and dashboards to communicate findings to stakeholders.
@@ -9,9 +13,9 @@ BMG Group
     Our Place 
 
 ### Education
-Bachelor of Sciences in Business Analytics. Exp. Graduation - Spring 2025
+Bachelor of Sciences in Business Analytics. Exp. Graduation - Fall 2025
 GPA 3.50
 
 ### Projects
-tell a story about each point in resume 
+tell a story about each point in the resume 
 
