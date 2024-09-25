@@ -3,7 +3,7 @@
 ### Experience
 Mintel
   •	Built predictive models to forecast sales and inventory levels, improving inventory management.
-    o	
+    
 
 BMG Group 
   •	Built predictive models to forecast sales and inventory levels, improving inventory management.
@@ -17,5 +17,15 @@ Bachelor of Sciences in Business Analytics. Exp. Graduation - Fall 2025
 GPA 3.50
 
 ### Projects
-tell a story about each point in the resume 
+Data Analyst – Car Market Insights Project
 
+Project Overview:
+Led a comprehensive data analysis project to identify trends in the car market, focusing on vehicle pricing, demand, and customer preferences.
+
+Key Contributions:
+  - Collaborated with a cross-functional team to gather and analyze data from various sources, including sales records, customer feedback, and industry reports.
+  - Cleaned and processed a dataset of over 100,000 car listings, applying data normalization and outlier detection techniques to ensure accuracy and consistency.
+  - Conducted exploratory data analysis (EDA) to uncover pricing trends based on factors like brand, model, mileage, and location.
+Outcome:
+The insights generated from the project helped the organization improve pricing accuracy, reduce excess inventory, and enhance customer
+satisfaction by offering more competitive pricing in specific market segments.
