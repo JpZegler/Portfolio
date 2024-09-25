@@ -1,20 +1,20 @@
 ## Business analytics student at Ivy College of Business at Iowa State University
-
 ### Experience
-Mintel
-  •	Built predictive models to forecast sales and inventory levels, improving inventory management.
-    
+Mintel | Data Analyst Intern | Chicago IL | Summer2024
 
-BMG Group 
-  •	Built predictive models to forecast sales and inventory levels, improving inventory management.
-    o	Created data visualizations and dashboards to communicate findings to stakeholders.
-  •	Developed SQL queries to extract and manipulate data from relational databases for analysis.
-  •	Collaborated with cross-functional teams to gather requirements and deliver data-driven solutions.
-    Our Place 
+During my summer internship at Mintel, I worked closely with a diverse team of data analysts and researchers, providing me with invaluable insights into the world of consumer data analytics.
 
+Data Processing and Analysis:
+I honed my data cleaning and preprocessing skills, working with large datasets that required a high degree of accuracy. I learned to utilize SQL and Python to query, manipulate, and analyze consumer behavior data efficiently. This helped me appreciate the importance of data integrity and reliability in business decisions.
+
+Outcome:
+By the end of my internship, I had a deeper understanding of the consumer data analytics landscape and how to translate raw data into meaningful business insights.
 ### Education
 Bachelor of Sciences in Business Analytics. Exp. Graduation - Fall 2025
-GPA 3.50
+
+GPA 3.50/4.00
+
+My time in school has been instrumental in helping me understand my strengths, areas for growth, and how to be an effective team member. Through both academic and extracurricular activities, I’ve learned to collaborate, communicate, and develop a sense of responsibility toward group success.
 
 ### Projects
 Data Analyst – Car Market Insights Project
@@ -24,8 +24,8 @@ Led a comprehensive data analysis project to identify trends in the car market, 
 
 Key Contributions:
   - Collaborated with a cross-functional team to gather and analyze data from various sources, including sales records, customer feedback, and industry reports.
-  - Cleaned and processed a dataset of over 100,000 car listings, applying data normalization and outlier detection techniques to ensure accuracy and consistency.
-  - Conducted exploratory data analysis (EDA) to uncover pricing trends based on factors like brand, model, mileage, and location.
+  - Conducted exploratory data analysis (EDA) to uncover pricing trends based on brand, model, mileage, and location.
+
 Outcome:
 The insights generated from the project helped the organization improve pricing accuracy, reduce excess inventory, and enhance customer
 satisfaction by offering more competitive pricing in specific market segments.
