@@ -6,10 +6,10 @@
 }
 
 .headshot-wrapper {
-  width: 140px;
-  height: 140px;
-  border-radius: 50%;
-  overflow: hidden; /* THIS is the key */
+  width: 150px;
+  height: 150px;
+  border-radius: 55%;
+  overflow: hidden; 
   margin: 0 auto 1rem;
 
   background-color: var(--primary);
