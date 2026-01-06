@@ -1,0 +1,119 @@
+:root {
+  --bg: #fafafa;
+  --text: #222;
+  --primary: #0b3954;
+  --accent: #0077cc;
+}
+
+[data-theme="dark"] {
+  --bg: #1a1a1a;
+  --text: #f0f0f0;
+  --primary: #00b4d8;
+  --accent: #90e0ef;
+}
+
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  transition: background 0.4s, color 0.4s;
+}
+
+header {
+  text-align: center;
+  padding: 3rem 1rem;
+  background: var(--primary);
+  color: #fff;
+  position: relative;
+}
+
+header nav {
+  margin-top: 1rem;
+}
+
+header nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 1rem;
+  font-weight: 500;
+}
+
+header nav a:hover {
+  text-decoration: underline;
+}
+
+#theme-toggle {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  background: transparent;
+  border: none;
+  color: #fff;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+section {
+  max-width: 900px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+  animation: fadeIn 1s ease;
+}
+
+h2 {
+  border-bottom: 2px solid var(--primary);
+  display: inline-block;
+  padding-bottom: 0.25rem;
+}
+
+.project {
+  display: flex;
+  gap: 1rem;
+  margin: 2rem 0;
+  background: #fff;
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  transition: transform 0.3s;
+}
+
+.project:hover {
+  transform: translateY(-5px);
+}
+
+.project img {
+  width: 180px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.project a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.project a:hover {
+  text-decoration: underline;
+}
+
+.chart-card {
+  background: #fff;
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+footer {
+  text-align: center;
+  padding: 2rem;
+  background: var(--primary);
+  color: white;
+  font-size: 0.9rem;
+}
+
+@keyframes fadeIn {
+  from {opacity: 0; transform: translateY(20px);}
+  to {opacity: 1; transform: translateY(0);}
+}
