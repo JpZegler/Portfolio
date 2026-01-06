@@ -5,13 +5,21 @@
   --accent: #0077cc;
 }
 
-.headshot {
+.headshot-wrapper {
   width: 140px;
   height: 140px;
   border-radius: 50%;
+  overflow: hidden; /* THIS is the key */
+  margin: 0 auto 1rem;
+
+  background-color: var(--primary);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+}
+
+.headshot-wrapper img {
+  width: 100%;
+  height: 100%;
   object-fit: cover;
-  margin-bottom: 1rem;
-  border: 3px solid white;
 }
 
 [data-theme="dark"] {
