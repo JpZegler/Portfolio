@@ -1,31 +1,59 @@
-## Business analytics student at Ivy College of Business at Iowa State University
-### Experience
-Mintel | Data Analyst Intern | Chicago IL | Summer2024
+# John Zegler — Data Analyst
 
-During my summer internship at Mintel, I worked closely with a diverse team of data analysts and researchers, providing me with invaluable insights into the world of consumer data analytics.
+ Hi! I’m John Zegler, a data analyst passionate about transforming raw data into actionable insights through analysis, visualization, and storytelling.
 
-Data Processing and Analysis:
-I honed my data cleaning and preprocessing skills, working with large datasets that required a high degree of accuracy. I learned to utilize SQL and Python to query, manipulate, and analyze consumer behavior data efficiently. This helped me appreciate the importance of data integrity and reliability in business decisions.
+ **Live Portfolio:** https://jpzegler.github.io/Portfolio/
 
-Outcome:
-By the end of my internship, I had a deeper understanding of the consumer data analytics landscape and how to translate raw data into meaningful business insights.
-### Education
-Bachelor of Sciences in Business Analytics. Exp. Graduation - Fall 2025
+---
 
-GPA 3.50/4.00
+##  Tools & Skills
+- **Languages:** Python, SQL
+- **Data Analysis:** Pandas, NumPy, Scikit-learn
+- **Visualization:** Tableau, Power BI, Plotly
+- **Databases:** PostgreSQL, MySQL
+- **Other:** Excel, Git, GitHub
 
-My time in school has been instrumental in helping me understand my strengths, areas for growth, and how to be an effective team member. Through both academic and extracurricular activities, I’ve learned to collaborate, communicate, and develop a sense of responsibility toward group success.
+---
 
-### Projects
-Data Analyst – Car Market Insights Project
+##  Featured Projects
 
-Project Overview:
-Led a comprehensive data analysis project to identify trends in the car market, focusing on vehicle pricing, demand, and customer preferences.
+###  Hotel Review Sentiment Analysis
+**Tools:** Python, NLP, Power BI  
+- Analyzed 5,000+ hotel reviews to identify key drivers of guest satisfaction  
+- Found repeat guests referenced “staff friendliness” 25% more than one-time guests  
+- Built an interactive Power BI dashboard to present insights  
 
-Key Contributions:
-  - Collaborated with a cross-functional team to gather and analyze data from various sources, including sales records, customer feedback, and industry reports.
-  - Conducted exploratory data analysis (EDA) to uncover pricing trends based on brand, model, mileage, and location.
 
-Outcome:
-The insights generated from the project helped the organization improve pricing accuracy, reduce excess inventory, and enhance customer
-satisfaction by offering more competitive pricing in specific market segments.
+
+---
+
+###  Sales Forecasting Model
+**Tools:** Python, Regression, Tableau  
+- Built a multiple regression model (R² = 0.92) to predict retail sales  
+- Visualized regional performance in Tableau  
+- Provided actionable recommendations for inventory planning  
+
+
+
+---
+
+###  Customer Insights Dashboard
+**Tools:** SQL, Tableau  
+- Designed an interactive dashboard analyzing customer purchase behavior  
+- Segmented customers by region and demographic to support marketing decisions  
+
+
+
+---
+
+##  What I’m Working On
+- Expanding my portfolio with end-to-end analytics projects  
+- Improving data storytelling and dashboard design  
+- Exploring machine learning applications in business analytics  
+
+---
+
+##  Let’s Connect
+- **LinkedIn:** https://www.linkedin.com/in/john-zegler-587985253/  
+- **GitHub:**  https://jpzegler.github.io/Portfolio/
+- **Email:** Zegler22@gmail.com
