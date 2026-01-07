@@ -5,12 +5,17 @@
   --accent: #0077cc;
 }
 
-.profile-pic {
-  width: 160px;
-  height: 160px;
+.profile-wrapper {
+  background: transparent;
+  padding: 0;
   border-radius: 50%;
-  object-fit: cover;
-  border: 3px solid rgba(255, 255, 255, 0.3);
+}
+
+.profile-wrapper img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
 }
 
 .headshot-wrapper img {
